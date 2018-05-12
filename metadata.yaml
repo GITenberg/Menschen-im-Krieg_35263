@@ -1,0 +1,32 @@
+_repo: Menschen-im-Krieg_35263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latzko, Andreas
+    alias: Latzko, Adolf Andreas
+    birthdate: 1876
+    deathdate: 1943
+    gutenberg_agent_id: '2749'
+    url: http://www.gutenberg.org/2009/agents/2749
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35263'
+  lccn: '19012321'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'War stories, German'
+tableOfContents: Der Abmarsch -- Feuertaufe -- Der Sieger -- Der Kamerad -- Heldentod
+  -- Heimkehr.
+title: Menschen im Krieg
+url: http://www.gutenberg.org/ebooks/35263
